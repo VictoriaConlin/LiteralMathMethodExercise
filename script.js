@@ -34,7 +34,7 @@ randomNum++;
 console.log(randomNum);
 
 // 6
-console.log(" let It Go!".repeat(2));
+console.log(" let It Go!".toUpperCase().repeat(2).trim());
 
 // 7a
 let reindeers = "Reindeers are better than people."
